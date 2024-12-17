@@ -6,7 +6,7 @@ public class MultiplicationUsingLoop {
         int n = sc.nextInt();
 
         for (int i = 1; i <= n; i++) {
-            System.out.println(i * n);
+            System.out.println();
         }
     }
 }
