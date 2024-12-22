@@ -18,3 +18,4 @@ public class SharedDigit {
         System.out.println(hasSharedDigit(100,10));
     }
 }
+//nothings is changed
